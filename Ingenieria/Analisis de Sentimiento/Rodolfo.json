@@ -1,0 +1,9 @@
+{"Result":[
+    {"File": "Rodolfo.txt", "Line": 0, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 7.259014819283038e-05, "Negative": 0.0016563106328248978, "Neutral": 0.5638998746871948, "Positive": 0.4343711733818054}}
+,{"File": "Rodolfo.txt", "Line": 1, "Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 5.23310472999583e-06, "Negative": 0.0013934506569057703, "Neutral": 0.4791649281978607, "Positive": 0.5194364786148071}}
+,{"File": "Rodolfo.txt", "Line": 2, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 1.7756408851710148e-05, "Negative": 0.00155954051297158, "Neutral": 0.6420047879219055, "Positive": 0.35641786456108093}}
+,{"File": "Rodolfo.txt", "Line": 3, "Sentiment": "NEGATIVE", "SentimentScore": {"Mixed": 0.08688189834356308, "Negative": 0.49659493565559387, "Neutral": 0.3690983057022095, "Positive": 0.0474247932434082}}
+,{"File": "Rodolfo.txt", "Line": 4, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 0.00032368776737712324, "Negative": 0.009470744989812374, "Neutral": 0.8785444498062134, "Positive": 0.11166100203990936}}
+,{"File": "Rodolfo.txt", "Line": 5, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 1.226381937158294e-05, "Negative": 0.0009874434908851981, "Neutral": 0.5846915245056152, "Positive": 0.4143087863922119}}
+                                                                                                           
+]}
