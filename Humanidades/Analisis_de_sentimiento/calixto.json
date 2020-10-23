@@ -1,0 +1,8 @@
+{"Result":[
+    {"File": "calixto.txt", "Line": 0, "Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 0.04246501624584198, "Negative": 0.0039308019913733006, "Neutral": 0.013823630288243294, "Positive": 0.9397805333137512}}
+    ,{"File": "calixto.txt", "Line": 1, "Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 0.0006283107213675976, "Negative": 0.007575218100100756, "Neutral": 0.4229312241077423, "Positive": 0.568865180015564}}
+    ,{"File": "calixto.txt", "Line": 2, "Sentiment": "NEGATIVE", "SentimentScore": {"Mixed": 0.00029160958365537226, "Negative": 0.9415953755378723, "Neutral": 0.050644103437662125, "Positive": 0.007468926254659891}}
+    ,{"File": "calixto.txt", "Line": 3, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 7.854236173443496e-05, "Negative": 0.0004177183727733791, "Neutral": 0.7996745705604553, "Positive": 0.19982914626598358}}
+    ,{"File": "calixto.txt", "Line": 4, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 6.783618300687522e-05, "Negative": 0.0022286486346274614, "Neutral": 0.8326076865196228, "Positive": 0.16509591042995453}}
+    ,{"File": "calixto.txt", "Line": 5, "Sentiment": "MIXED", "SentimentScore": {"Mixed": 0.8191283345222473, "Negative": 0.0075881569646298885, "Neutral": 0.09935123473405838, "Positive": 0.07393226027488708}}
+]}

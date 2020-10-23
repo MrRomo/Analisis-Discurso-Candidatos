@@ -1,0 +1,9 @@
+{"Result":[
+    {"File": "francisco.txt", "Line": 0, "Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 0.00018724481924436986, "Negative": 0.002892030170187354, "Neutral": 0.3679763972759247, "Positive": 0.6289442777633667}}
+,{"File": "francisco.txt", "Line": 1, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 0.36046019196510315, "Negative": 0.20942971110343933, "Neutral": 0.38691914081573486, "Positive": 0.04319101199507713}}
+,{"File": "francisco.txt", "Line": 2, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 1.1436609383963514e-05, "Negative": 0.0025061341002583504, "Neutral": 0.5169602036476135, "Positive": 0.4805222153663635}}
+,{"File": "francisco.txt", "Line": 3, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 4.302698653191328e-05, "Negative": 0.014862081035971642, "Neutral": 0.6033617854118347, "Positive": 0.3817330598831177}}
+,{"File": "francisco.txt", "Line": 4, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 5.987262193229981e-05, "Negative": 0.001992694102227688, "Neutral": 0.8035870790481567, "Positive": 0.19436031579971313}}
+,{"File": "francisco.txt", "Line": 5, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 0.00022394812549464405, "Negative": 0.004862363915890455, "Neutral": 0.7652491331100464, "Positive": 0.22966457903385162}}
+                                                                                                                              
+    ]}

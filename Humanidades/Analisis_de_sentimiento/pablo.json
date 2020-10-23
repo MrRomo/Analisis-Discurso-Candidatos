@@ -1,0 +1,10 @@
+{"Result":[
+    {"File": "pablo.txt", "Line": 0, "Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 1.1997302863164805e-05, "Negative": 0.00028310195193625987, "Neutral": 0.01614409126341343, "Positive": 0.9835608005523682}}
+,{"File": "pablo.txt", "Line": 1, "Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 0.00037878603325225413, "Negative": 0.003633591579273343, "Neutral": 0.4901678264141083, "Positive": 0.5058197975158691}}
+,{"File": "pablo.txt", "Line": 2, "Sentiment": "MIXED", "SentimentScore": {"Mixed": 0.5517492294311523, "Negative": 0.004977812524884939, "Neutral": 0.18176336586475372, "Positive": 0.26150965690612793}}
+,{"File": "pablo.txt", "Line": 3, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 6.238530477276072e-05, "Negative": 0.0013284701853990555, "Neutral": 0.8312201499938965, "Positive": 0.16738897562026978}}
+,{"File": "pablo.txt", "Line": 4, "Sentiment": "MIXED", "SentimentScore": {"Mixed": 0.8612917065620422, "Negative": 0.005652107298374176, "Neutral": 0.05207386985421181, "Positive": 0.08098237216472626}}
+,{"File": "pablo.txt", "Line": 5, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 0.0010433370480313897, "Negative": 0.03518687188625336, "Neutral": 0.7642909288406372, "Positive": 0.1994788497686386}}
+,{"File": "pablo.txt", "Line": 6, "Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 1.8725539121078327e-05, "Negative": 0.004054476507008076, "Neutral": 0.8772347569465637, "Positive": 0.11869212239980698}}
+      
+    ]}
